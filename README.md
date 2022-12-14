@@ -7,12 +7,11 @@ Proje 3
 Kök (root) 5'dir. 
 Kökün sağında 7, Solunda 3 bulunur. 
 
-"""json
+'''json
 
         5
     3       7
   1    4  6    8
 0   2             9
 
-
-"""
+'''
